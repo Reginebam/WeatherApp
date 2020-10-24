@@ -1,0 +1,25 @@
+
+.Input{
+
+    font-weight: 10%;
+    font-size: 10px;
+    
+    
+    
+    }
+    
+   
+    .Text{
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-size: 60px;
+      }
+      .Tic{
+          margin-top: 10px;
+    
+      }
+      .Icon{
+    
+        width: 100px;
+    
+      }

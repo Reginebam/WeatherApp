@@ -1,0 +1,25 @@
+{
+  "short_name": "weatherapps",
+  "name": "Create weatherapps Sample",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "164x164 164x164 124x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FFC0CB",
+  "background_color":"#FFC0CB"
+}

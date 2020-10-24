@@ -1,0 +1,31 @@
+
+.Input{
+
+    font-weight: 10%;
+    font-size: 10px;
+    
+    
+    
+    }
+    .col-sm-8{
+        margin-top: 100px;
+        /* background-color: rgb(211, 211, 240); */
+        text-align: center;
+        /* background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapershome.com%2Fstock-images%2Flove-image-8k-21486.html%3Fpage%3D139&psig=AOvVaw016GBdJtAakO1j31y2OQnk&ust=1602513721125000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMjXpKbjrOwCFQAAAAAdAAAAABAE"); */
+    
+    margin-left: 0px;
+    }
+    .Text{
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-size: 60px;
+      }
+      .Tic{
+          margin-top: 100px;
+    
+      }
+      .Icon{
+    
+        width: 100px;
+    
+      }
